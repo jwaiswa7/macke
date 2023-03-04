@@ -11,8 +11,8 @@ const Features = () => {
       >
         <div className="container">
           <SectionTitle
-            title="Main Features"
-            paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+            title="Vision"
+            paragraph="Macke believes in having a lasting impact on our clients, partners and communities within our operations. It is our desired vision to offer the best possible service and products while creating impact through:"
             center
           />
 
