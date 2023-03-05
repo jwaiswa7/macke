@@ -21,29 +21,34 @@ const AboutSectionTwo = () => {
             <div className="wow fadeInUp max-w-[470px]" data-wow-delay=".2s">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Bug free code
+                  Coffee
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                <p className="text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                More than 10 speciality blends and single origin farm coffee grown from Macke farm Chepterit.
                 </p>
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Premier support
+                  Fresh Foods
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt.
+                <p className="text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                Fresh farm milk, variety of organically grown vegetables and fruits for local consumption and export through Nutrimark.
+                </p>
+              </div>
+              <div className="mb-9">
+                <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
+                  Beverages
+                </h3>
+                <p className="text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                Teas, juices and imported wines traded under Macke Ltd.
                 </p>
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Next.js
+                Cleaning Services
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
-                  consectetur adipiscing elit setim.
+                <p className="text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                 Our team consists of experienced professionals and keep to the highest proven standards that take into consideration healthy and safe working environments.
                 </p>
               </div>
             </div>

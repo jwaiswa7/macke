@@ -13,7 +13,7 @@ const Footer = () => {
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-5/12">
               <div className="mb-12 max-w-[360px] lg:mb-16">
                 <Link href="/" className="mb-8 inline-block">
-                  <Image
+                  {/* <Image
                     src="images/logo/logo-2.svg"
                     alt="logo"
                     className="w-full dark:hidden"
@@ -26,11 +26,13 @@ const Footer = () => {
                     className="hidden w-full dark:block"
                     width={140}
                     height={30}
-                  />
+                  /> */}
+                  MACKE
                 </Link>
                 <p className="mb-9 text-base font-medium leading-relaxed text-body-color">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                 P.O.Box 2138, Kampala, Uganda <br/>
+                 Tel: +256 (0)704 892112, +256 (0)773 290405 <br/>
+                 Email: Mackeltd21@gmail.com
                 </p>
                 <div className="flex items-center">
                   <a
