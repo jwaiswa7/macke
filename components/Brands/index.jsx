@@ -4,37 +4,37 @@ const brandsData = [
   {
     id: 1,
     name: "Rockman Safaris Limited",
-    href: "https://uideck.com",
+    href: "",
     image: "/images/brands/uideck.svg",
   },
   {
     id: 2,
     name: "Kach-Ap Global Forwarders",
-    href: "https://tailgrids.com",
+    href: "",
     image: "/images/brands/tailgrids.svg",
   },
   {
     id: 3,
     name: "Macke Resort Sipi",
-    href: "https://lineicons.com",
+    href: "",
     image: "/images/brands/lineicons.svg",
   },
   {
     id: 4,
     name: " NutriMark Products Limited",
-    href: "https://graygrids.com",
+    href: "",
     image: "/images/brands/graygrids.svg",
   },
   {
     id: 5,
     name: "Macke Coffee House",
-    href: "https://tailadmin.com",
+    href: "",
     image: "/images/brands/tailadmin.svg",
   },
   {
     id: 6,
     name: "GIMNAT International Limited",
-    href: "https://tailadmin.com",
+    href: "",
     image: "/images/brands/tailadmin.svg",
   },
 ];
