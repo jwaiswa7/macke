@@ -4,24 +4,24 @@ const brandsData = [
   {
     id: 1,
     name: "Rockman Safaris Limited",
-    href: "",
-    image: "/images/brands/uideck.svg",
+    href: "https://rockmansafaris.com",
+    image: "/images/brands/rockman.jpeg",
   },
   {
     id: 2,
     name: "Kach-Ap Global Forwarders",
-    href: "",
-    image: "/images/brands/tailgrids.svg",
+    href: "https://kachapglobalforwarders.com/",
+    image: "/images/brands/kach-ap.jpg",
   },
   {
     id: 3,
-    name: "Macke Resort Sipi",
-    href: "",
-    image: "/images/brands/lineicons.svg",
+    name: "Mise Cave Lodge",
+    href: "https://misecavelodge.com/",
+    image: "/images/macke.jpeg"
   },
   {
     id: 4,
-    name: " NutriMark Products Limited",
+    name: "NutriMark Products Limited",
     href: "",
     image: "/images/brands/graygrids.svg",
   },
@@ -46,7 +46,7 @@ const Brands = () => {
         <div className="-mx-4 flex flex-wrap">
           <div className="w-full px-4">
             <div
-              className="wow fadeInUp flex flex-wrap items-center justify-center rounded-md bg-dark py-8 px-8 dark:bg-primary dark:bg-opacity-5 sm:px-10 md:py-[40px] md:px-[50px] xl:p-[50px] 2xl:py-[60px] 2xl:px-[70px]"
+              className="wow fadeInUp flex flex-wrap items-center justify-center rounded-md bg-light py-8 px-8 dark:bg-primary dark:bg-opacity-5 sm:px-10 md:py-[40px] md:px-[50px] xl:p-[50px] 2xl:py-[60px] 2xl:px-[70px]"
               data-wow-delay=".1s
               "
             >
@@ -74,8 +74,15 @@ const SingleBrand = ({ brand }) => {
         rel="nofollow noreferrer"
         className="relative h-10 w-full opacity-70 grayscale transition hover:opacity-100 hover:grayscale-0 dark:opacity-60 dark:hover:opacity-100"
       >
-        {/* <Image src={image} alt={name} fill /> */}
-        {name}
+        {
+          <
+            Image 
+            src={image}
+            alt={name}
+            width={150}
+            height={150}
+          />
+        }
       </a>
     </div>
   );
