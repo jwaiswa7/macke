@@ -157,8 +157,8 @@ const Header = () => {
                   Sign Up
                 </Link> */}
                 <div>
-                  <ThemeToggler />
-                </div>
+                  {/* <ThemeToggler /> */}
+                </div> 
               </div>
             </div>
           </div>
