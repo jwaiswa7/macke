@@ -18,25 +18,25 @@ const brandsData = [
     name: "Mise Cave Lodge",
     href: "https://misecavelodge.com/",
     image: "/images/macke.jpeg"
-  },
-  {
-    id: 4,
-    name: "NutriMark Products Limited",
-    href: "",
-    image: "/images/brands/graygrids.svg",
-  },
-  {
-    id: 5,
-    name: "Macke Coffee House",
-    href: "",
-    image: "/images/brands/tailadmin.svg",
-  },
-  {
-    id: 6,
-    name: "GIMNAT International Limited",
-    href: "",
-    image: "/images/brands/tailadmin.svg",
-  },
+  }
+  // {
+  //   id: 4,
+  //   name: "NutriMark Products Limited",
+  //   href: "",
+  //   image: "/images/brands/graygrids.svg",
+  // },
+  // {
+  //   id: 5,
+  //   name: "Macke Coffee House",
+  //   href: "",
+  //   image: "/images/brands/tailadmin.svg",
+  // },
+  // {
+  //   id: 6,
+  //   name: "GIMNAT International Limited",
+  //   href: "",
+  //   image: "/images/brands/tailadmin.svg",
+  // },
 ];
 
 const Brands = () => {

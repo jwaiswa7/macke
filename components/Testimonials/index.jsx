@@ -4,30 +4,30 @@ import SingleTestimonial from "./SingleTestimonial";
 const testimonialData = [
   {
     id: 1,
-    name: "John Doe",
-    designation: "Founder @Tourist",
+    name: "Joshua",
+    designation: "Tourist",
     content:
-      "Amazing review",
+      "The location was simply breathtaking, surrounded by lush greenery and stunning views of the Sipi Falls",
     image: "/images/testimonials/auth-01.png",
-    star: 5,
+    star: 4,
   },
   {
     id: 2,
-    name: "John Doe",
-    designation: "Founder @Coffee",
+    name: "Eve",
+    designation: "Tourist",
     content:
-      "Amazing experience, great review",
+      "If you're seeking an authentic experience in Sipi, Uganda, Mise cave lodge is the perfect choice. The staff's genuine warmth and hospitality made me feel right at home",
     image: "/images/testimonials/auth-02.png",
     star: 5,
   },
   {
     id: 3,
-    name: "John Doe",
-    designation: "Founder @Taste",
+    name: "John",
+    designation: "Founder @Coffe",
     content:
-      "Amazing experience, great review",
+      "I've had the pleasure of working with Kach-ap Logistics in East Africa, and I am beyond impressed with their services. From the very beginning, their team demonstrated exceptional professionalism and efficiency",
     image: "/images/testimonials/auth-03.png",
-    star: 5,
+    star: 4,
   },
 ];
 
